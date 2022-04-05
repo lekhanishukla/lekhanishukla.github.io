@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d276d4c9.chunk.css",
-    "main.js": "/static/js/main.10e79630.chunk.js",
-    "main.js.map": "/static/js/main.10e79630.chunk.js.map",
+    "main.js": "/static/js/main.62fd629e.chunk.js",
+    "main.js.map": "/static/js/main.62fd629e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.11e15922.js",
     "runtime-main.js.map": "/static/js/runtime-main.11e15922.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -15,6 +15,7 @@
     "static/css/main.d276d4c9.chunk.css.map": "/static/css/main.d276d4c9.chunk.css.map",
     "static/js/2.5589d215.chunk.js.LICENSE.txt": "/static/js/2.5589d215.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
+    "static/media/Lekhani_Shukla_Resume.8b987370.pdf": "/static/media/Lekhani_Shukla_Resume.8b987370.pdf",
     "static/media/adobe-xd.a6dca99d.svg": "/static/media/adobe-xd.a6dca99d.svg",
     "static/media/adobeaudition.afa937d5.svg": "/static/media/adobeaudition.afa937d5.svg",
     "static/media/after-effects.3c076652.svg": "/static/media/after-effects.3c076652.svg",
@@ -96,7 +97,6 @@
     "static/media/julia.be076220.svg": "/static/media/julia.be076220.svg",
     "static/media/kotlin.4f592da4.svg": "/static/media/kotlin.4f592da4.svg",
     "static/media/lekhani.e947af34.jpeg": "/static/media/lekhani.e947af34.jpeg",
-    "static/media/lekhani_shukla_resume.03a8b19c.pdf": "/static/media/lekhani_shukla_resume.03a8b19c.pdf",
     "static/media/lightroom.0e67d833.svg": "/static/media/lightroom.0e67d833.svg",
     "static/media/markdown.62e50cf0.svg": "/static/media/markdown.62e50cf0.svg",
     "static/media/materialui.518da2c0.svg": "/static/media/materialui.518da2c0.svg",
@@ -157,6 +157,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.5589d215.chunk.js",
     "static/css/main.d276d4c9.chunk.css",
-    "static/js/main.10e79630.chunk.js"
+    "static/js/main.62fd629e.chunk.js"
   ]
 }
